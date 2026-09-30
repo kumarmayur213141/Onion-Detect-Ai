@@ -1,0 +1,38 @@
+{
+  "batches": [
+    {
+      "batch_id": "ON-2026-001",
+      "date": "2026-09-30",
+      "location": "Jaipur APMC",
+      "total_onions": 40,
+      "grade_a": 30,
+      "grade_b": 7,
+      "reject": 3,
+      "defective": 10,
+      "average_size_mm": 52,
+      "quality_score": 88,
+      "status": "Completed"
+    },
+    {
+      "batch_id": "ON-2026-002",
+      "date": "2026-09-30",
+      "location": "Kota APMC",
+      "total_onions": 35,
+      "grade_a": 24,
+      "grade_b": 8,
+      "reject": 3,
+      "defective": 11,
+      "average_size_mm": 48,
+      "quality_score": 84,
+      "status": "Completed"
+    }
+  ],
+  "statistics": {
+    "total_batches": 2,
+    "total_onions_inspected": 75,
+    "grade_a_percentage": 72,
+    "grade_b_percentage": 20,
+    "reject_percentage": 8,
+    "average_quality_score": 86
+  }
+}
